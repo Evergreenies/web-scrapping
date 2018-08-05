@@ -1,7 +1,0 @@
-I am using Python 3 version to run this project
-
-While running this project we have need to install some dependencies
-
-1) pip install BeautifulSoup4
-2) pip install requests
-3) pip install lxml
